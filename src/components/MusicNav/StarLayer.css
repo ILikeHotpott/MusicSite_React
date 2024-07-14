@@ -1,0 +1,11 @@
+.star-layer {
+    z-index: 1000;
+    position: absolute;
+    top: 0;
+}
+
+@media (max-width: 480px) {
+    .layer5, .layer4 {
+        display: none;
+    }
+}
